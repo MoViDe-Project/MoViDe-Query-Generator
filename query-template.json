@@ -1,0 +1,18 @@
+{
+  "index": 0,
+  "from": {
+    "name": "STOP-Startpoint-Dummy",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "level": 0,
+    "stopId" : "STOPID-Startpoint-Dummy"
+  },
+  "to": {
+    "name": "STOP-Endpoint-Dummy",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "level": 0,
+    "stopId" : "STOPID-Endpoint-Dummy"
+  },
+  "time": "2025-02-20T10:00:00Z"
+}
